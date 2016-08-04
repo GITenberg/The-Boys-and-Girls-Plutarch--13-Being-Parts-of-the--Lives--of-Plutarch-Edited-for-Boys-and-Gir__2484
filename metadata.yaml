@@ -1,0 +1,37 @@
+_repo: The-Boys-and-Girls-Plutarch--13-Being-Parts-of-the--Lives--of-Plutarch-Edited-for-Boys-and-Gir__2484
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+  editor:
+    agent_name: White, John S. (John Stuart)
+    alias: White, John Stuart
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '932'
+    url: http://www.gutenberg.org/2009/agents/932
+description: 'Uniform title: Lives. English. Selections'
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DE'
+- !lcc 'CT'
+- !lcsh 'Greece -- Biography -- Juvenile literature'
+- !lcsh 'Rome -- Biography -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: "The Boys' and Girls' Plutarch\r\nBeing Parts of the \"Lives\" of Plutarch,\
+  \ Edited for Boys and Girls"
+url: http://www.gutenberg.org/ebooks/2484
