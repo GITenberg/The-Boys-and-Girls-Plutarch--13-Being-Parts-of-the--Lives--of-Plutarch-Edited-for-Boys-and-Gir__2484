@@ -1,5 +1,8 @@
 _repo: The-Boys-and-Girls-Plutarch--13-Being-Parts-of-the--Lives--of-Plutarch-Edited-for-Boys-and-Gir__2484
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plutarch
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '932'
     url: http://www.gutenberg.org/2009/agents/932
 description: 'Uniform title: Lives. English. Selections'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2484#The-Boys-and-Girls-Plutarch--13-Being-Parts-of-the--Lives--of-Plutarch-Edited-for-Boys-and-Gir_
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2001-01-01'
 gutenberg_type: Text
